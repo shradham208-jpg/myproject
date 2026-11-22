@@ -1,4 +1,4 @@
-print('hello shradha')
+print('hello python')
 print('hi kapil')
 num = int(input('enter your number'))
 if num%2 == 0:
